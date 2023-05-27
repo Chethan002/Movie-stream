@@ -1,1 +1,2 @@
-# movie-stream
+# react-movie-stream-app
+ 
